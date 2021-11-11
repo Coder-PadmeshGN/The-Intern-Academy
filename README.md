@@ -21,4 +21,4 @@ Problem Statement : Now-a-days we are watching that it has become a trend to mes
 
 Solution : This project comes up with a solution to simplify the task of keeping up with birthdays and anniversaries by automating the process using Python along with an effective user interface.
 
-IDE used : Jupyter Notebook
+IDE used : PyCharm
