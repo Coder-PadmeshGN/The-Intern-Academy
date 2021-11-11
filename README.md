@@ -12,7 +12,7 @@ Padmesh G N - https://github.com/PadmeshGN
 
 Fathima Femeena S B - https://github.com/FathimaFemeena
 
-About the Project:
+# About the Project:
 Have you ever wished to automatically wish your friends on their birthdays, or send a set of messages to your friend (or any Whatsapp contact!) automatically at a pre-set time on WhatsApp! Using this project, you can do all of it and much more!
 
 Task name : Whatsapp Auto wisher
